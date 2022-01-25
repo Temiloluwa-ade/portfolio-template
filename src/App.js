@@ -15,7 +15,7 @@ const App = () => {
       </p>
     </div>
     <div className="right">
-      <img src="../public/picture.jpg" alt="Me" />
+      <img src="./picture.jpg" alt="Me" />
     </div>
   </div>;
 };
